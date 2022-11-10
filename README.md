@@ -17,9 +17,9 @@ A simple dev environment, directly in the browser.
 
 ## Code
 
-Check `api/server.go` for the server code written in Go that allows CORS.
+Check [./api/server.go](./api/server.go) for the server code written in Go that allows CORS.
 
-Check `gui/UserCreator.js` for the React frontend component that tries to 
+Check [./gui/src/UserCreator.js](./gui/src/UserCreator.js) for the React frontend component that tries to 
 create a new user via a POST request.
 
 ## Reproducing the issue
