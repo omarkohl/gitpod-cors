@@ -26,7 +26,7 @@ create a new user via a POST request.
 
 1. Start this environment in Gitpod.
 2. Open the browser for the GUI (port 3000), which will open by default anyway.
-3. Press the 'Create User' button and you will get an error.
+3. Press the 'Create User' button and you will get an error. **This is the issue!** This request should succeed.
 4. In Gitpod make the API port **public** instead of private.
 6. Press the 'Create User' button in the GUI again and you will get a success
    message.
